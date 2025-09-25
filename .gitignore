@@ -208,3 +208,4 @@ __marimo__/
 
 # dataset
 household_power_consumption.txt
+*.txt
